@@ -5,7 +5,7 @@ Merhabalar, C++ programlama dili için oluşturduğum temel düzeyde C++ syntax 
 # Bu Repository Neler İçerir?
 
 - Arrays
- * Multidimensional Arrays
+  * Multidimensional Arrays
 
 - Break-Continue
 
@@ -22,7 +22,7 @@ Merhabalar, C++ programlama dili için oluşturduğum temel düzeyde C++ syntax 
 - Functions and Structures
 
 - Functions
- * Return in Functions
+  * Return in Functions
 
 - HelloWorld
 
@@ -39,8 +39,8 @@ Merhabalar, C++ programlama dili için oluşturduğum temel düzeyde C++ syntax 
 - Operators
 
 - Pointers
- * Connection between Pointers and Arrays
- * Logic of Pointers
+  * Connection between Pointers and Arrays
+  * Logic of Pointers
 
 - References
 
@@ -53,4 +53,4 @@ Merhabalar, C++ programlama dili için oluşturduğum temel düzeyde C++ syntax 
 - Switch-Case
 
 - While Loop
- * Do-While Loop
+  * Do-While Loop
